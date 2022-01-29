@@ -1,10 +1,21 @@
 # g.foobar
 google foobar
 
+## git repos
+
+- https://github.com/topics/google-foobar
 - https://github.com/bezzad/foobar.withgoogle
+- https://github.com/ivanseed/google-foobar-help
+- https://github.com/n3a9/google-foobar
+- https://github.com/ayushi7rawat/Gooogle-Foobar
+- https://github.com/tisoap/google-foobar-challenge
+- https://github.com/letientai299/google-foobar-2021
+
+## blogs
+
 - https://www.freecodecamp.org/news/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184/
 - https://foobar.withgoogle.com/
-
+- https://itsmohitt.medium.com/things-you-should-know-about-google-foobar-invitation-703a535bf30f
 
 ## What is this
 
@@ -33,4 +44,15 @@ Upon completing level 3, I had to submit my personal details with a potential re
 
 Inside each level is a challenge folder with a problem file describing the challenge and constraints, and my solution to the challenge.
 
-Level 1
+## My challenges
+
+- [Level 1 challenge](c1/readme.md)
+- [Level 2 challenge](c2/readme.md)
+
+
+## useful resources
+
+- https://github.com/LeCoupa/awesome-cheatsheets
+- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
+- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vscode.md
+- https://www.markdownguide.org/cheat-sheet/
